@@ -76,3 +76,5 @@ console.log(MemB);
 console.log(MemB.getprivateCode());
 
 console.log(MemB.constructor);
+
+console.log	(MemA.constructor);
